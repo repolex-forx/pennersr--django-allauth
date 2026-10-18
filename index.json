@@ -1,0 +1,11 @@
+{
+  "org": "pennersr",
+  "repo": "django-allauth",
+  "versions": [
+    {
+      "commit": "5ea117e72397adbd8ca6bc61c692d64ecca4d31b",
+      "tag": "65.20.0",
+      "parsed_at": "2026-10-18T10:23:04.237069+00:00"
+    }
+  ]
+}
