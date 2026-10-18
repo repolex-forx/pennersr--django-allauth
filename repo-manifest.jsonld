@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pennersr/django-allauth/commit/5ea117e72397adbd8ca6bc61c692d64ecca4d31b",
       "git:hexsha": "5ea117e72397adbd8ca6bc61c692d64ecca4d31b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "65.20.0"
     },
     {
